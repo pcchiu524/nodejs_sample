@@ -1,0 +1,9 @@
+{
+   "author": "IBM",
+   "dependencies": {
+      "mqtt":"*",
+      "properties":"*"
+   },
+   "description": "Published data to the IoT cloud.",
+   "main": "pub.js"
+}
